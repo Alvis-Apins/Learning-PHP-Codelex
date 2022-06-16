@@ -71,9 +71,3 @@ function gameMechanics(string $playerTurn, array $emptyGameBoard){
 }
 
 gameMechanics($playerTurn, $emptyGameBoard);
-
-
-
-
-
-
