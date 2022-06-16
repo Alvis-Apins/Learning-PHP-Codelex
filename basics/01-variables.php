@@ -18,4 +18,3 @@ $surname = 'Apins';
 $age = 27;
 
 echo $name . ' ' . $surname . ' age - ' . $age . PHP_EOL;
-
